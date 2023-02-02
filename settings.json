@@ -20,14 +20,6 @@
 
   },
 
-  "linkvertise": {
-
-    "userid": 00000,
-
-    "coins": 2
-
-  },
-
   "database": "sqlite://database.sqlite",
 
   "api": {
