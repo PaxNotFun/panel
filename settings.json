@@ -32,7 +32,7 @@
         ]
       },
       "bot": {
-        "token": "",
+        "token": "OTgzODk2OTg2ODI4ODAwMDAw.GjB2VK.tnW7wjhjTdpi1tyEav8pvKG2mZ2aApJ3-L-kT",
         "joinguild": {
           "_comment": "The Discord bot must be in these servers and have invite permissions.",
           "enabled": true,
